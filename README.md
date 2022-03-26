@@ -1,1 +1,1 @@
-# vue_apps
+# Simon game
